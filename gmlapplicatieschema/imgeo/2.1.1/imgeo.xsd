@@ -11,7 +11,7 @@
   <import namespace="http://www.opengis.net/citygml/relief/2.0" schemaLocation="http://schemas.opengis.net/citygml/relief/2.0/relief.xsd"/>
   <import namespace="http://www.opengis.net/citygml/generics/2.0" schemaLocation="http://schemas.opengis.net/citygml/generics/2.0/generics.xsd"/>
   <import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
-  <!--XML Schema document created by ShapeChange-->
+  <!-- XML Schema document created by ShapeChange -->
   <annotation>
     <documentation>Erratum 20130329 Correcties (mantis nr) 4068, 4069, 4072, 4073, 4036.</documentation>
   </annotation>
